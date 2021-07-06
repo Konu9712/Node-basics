@@ -1,0 +1,19 @@
+{
+  "name": "npmmodule",
+  "version": "1.0.0",
+  "description": "npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js"
+  },
+  "author": "konu",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "validator": "^13.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
