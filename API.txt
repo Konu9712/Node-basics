@@ -1,0 +1,22 @@
+b6ee0242a7a3f059d0bf516095e2bd59
+
+c29f4ca007726e6c9f39e245b1b6ff03
+
+api.openweathermap.org/data/2.5/weather?q=Pune&appid=b6ee0242a7a3f059d0bf516095e2bd59
+
+
+
+
+api.openweathermap.org/data/2.5/weather?q=Surat&appid=c29f4ca007726e6c9f39e245b1b6ff03
+
+
+
+
+2f5a4370b30c65c4bbcea9eff92041ef
+
+http://api.weatherstack.com/current
+    ? access_key = 2f5a4370b30c65c4bbcea9eff92041ef
+    & query = New York
+
+
+A simple weather forecast app which fetch the data from openweathermap.org, build in nodejs+HTML5
